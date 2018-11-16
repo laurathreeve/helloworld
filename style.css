@@ -1,0 +1,11 @@
+h1 {
+    color: rgb(68, 74, 105);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: inherit;
+    size: 45px;
+}
+
+p {
+   font-family: 'Courier New', Courier, monospace;
+   size: 20px; 
+}
